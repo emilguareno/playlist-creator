@@ -1,0 +1,16 @@
+{
+  "name": "playlist-creator",
+  "version": "1.0.0",
+  "description": "Create playlist from different playlist tracks",
+  "main": "index.js",
+  "repository": {
+    "url": "git@github.com:emilguareno/playlist-creator.git",
+    "type": "git"
+  },
+  "author": "Emil Guareno",
+  "license": "MIT",
+  "dependencies": {
+    "passport-spotify": "^0.3.0",
+    "spotify-web-api-node": "^2.3.6"
+  }
+}
